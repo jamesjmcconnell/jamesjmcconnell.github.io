@@ -9,12 +9,9 @@
 title: James McConnell
 email: jamesjmcconnell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jamesjmcconnell.github.io" # the base hostname & protocol for your site
-twitter_username: no twitter :(
 github_username:  jamesjmcconnell
 
 # Build settings
