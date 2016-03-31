@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Welcome to my Website / About me"
-date:   2016-03-3
+date:   2016-03-30 20:16:00 -0400
 ---
 
 My name is James, i'm a student currently enrolled at Carleton University in the Computer Science program. I have a passion for code and am currently looking for an internship oppourtunity to expand my knowledge.
 
 Check out my [GitHub][github]!
 
-[github]: https://github.com/jamesjmcconnell?tab=repositories
+[github]: https://github.com/jamesjmcconnell
