@@ -9,11 +9,8 @@
 title: James McConnell
 email: jamesjmcconnell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Well. Finally got around to putting this old website together. 
-  Neat thing about it - powered by [Jekyll](http://jekyllrb.com) 
-  and I can use Markdown to author my posts. It actually is a lot 
-  easier than I thought it was going to be.
-baseurl: "/Welcome" # the subpath of your site, e.g. /blog
+  Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jamesjmcconnell.github.io" # the base hostname & protocol for your site
 github_username:  jamesjmcconnell
 
