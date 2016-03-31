@@ -8,4 +8,4 @@ My name is James, i'm a student currently enrolled at Carleton University in the
 
 Check out my [GitHub][github]!
 
-[github]: https://github.com/jamesjmcconnell
+[github]: https://github.com/jamesjmcconnell?tab=repositories
